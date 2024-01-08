@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="text"]{
+    @apply w-2/3 rounded-md ;
+}
